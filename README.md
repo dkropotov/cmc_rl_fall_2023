@@ -61,14 +61,14 @@
 | Лекция<br>11 ноября | Онлайн | Trust-Region Policy Optimization (TRPO).	| [TRPO](https://arxiv.org/pdf/1502.05477.pdf) |  |
 | Лекция<br>18 ноября | Офлайн | Proximal Policy Optimization (PPO). | [Слайды занятия](http://www.machinelearning.ru/wiki/images/1/14/MSU_2021_PPO.pdf)<br>[PPO](https://arxiv.org/pdf/1707.06347.pdf) | [Implementation matters in RL](https://arxiv.org/pdf/2005.12729.pdf) |
 | Семинар<br>18 ноября | Офлайн | Generalized Advantage Estimation (GAE).	| [GAE](https://arxiv.org/pdf/1506.02438.pdf) | [Sutton, Barto](https://drive.google.com/file/d/1Z4W_-0IaMNpZnhnMkqcDVM_EA79GFJo-/view), ch.12 |
-| Лекция<br>25 ноября | Офлайн | Непрерывное управление. | Deep Deterministic Policy Gradient (DDPG)<br>Twin-Delayed DDPG (TD3)<br>Soft Actor-Critic (SAC) | Truncated Quantile Critics (TQC) |
-| Семинар<br>25 ноября | Офлайн | Soft Actor Critic. Управление, как вероятностный вывод.	| RL as probabilistic inference |   |
+| Лекция<br>25 ноября | Офлайн | Непрерывное управление. | [Deep Deterministic Policy Gradient (DDPG)](https://arxiv.org/pdf/1509.02971.pdf)<br>[Twin-Delayed DDPG (TD3)](https://arxiv.org/pdf/1802.09477.pdf)<br>[Soft Actor-Critic (SAC)](https://arxiv.org/pdf/1801.01290.pdf) | [Truncated Quantile Critics (TQC)](https://arxiv.org/abs/2005.04269) |
+| Семинар<br>25 ноября | Офлайн | Soft Actor Critic. Управление, как вероятностный вывод.	| [RL as probabilistic inference](https://arxiv.org/pdf/1805.00909.pdf) |   |
 | Лекция<br> 2 декабря | Офлайн | Имитационное обучение.	|  |
-| Семинар<br>2 декабря | Офлайн | Обратное обучение с подкреплением.	| Guided Cost Learning<br>Generative Adversarial Imitation Learning (GAIL) |  |
+| Семинар<br>2 декабря | Офлайн | Обратное обучение с подкреплением.	| [Guided Cost Learning](https://arxiv.org/pdf/1603.00448.pdf)<br>[Generative Adversarial Imitation Learning (GAIL)](https://arxiv.org/pdf/1606.03476.pdf) |  |
 | Лекция<br>9 декабря | Офлайн | Monte Carlo Tree Search.		|  |  |
-| Семинар<br>9 декабря | Офлайн | AlphaZero, MuZero.	| AlphaZero<br>MuZero | AlphaZero in one picture |
-| Лекция<br>16 декабря | Онлайн | Linear Quadratic Regulator (LQR). Model-based RL.	| Презентация по MCTS и LQR<br>Презентация по Model-based RL | World Models |
-| Семинар<br> 16 декабря | Онлайн | Dreamer	| Dreamer v1<br>Dreamer v2 |  |
+| Семинар<br>9 декабря | Офлайн | AlphaZero, MuZero.	| [AlphaZero](https://discovery.ucl.ac.uk/id/eprint/10045895/1/agz_unformatted_nature.pdf)<br>[MuZero](https://arxiv.org/pdf/1911.08265.pdf) | [AlphaZero in one picture](https://miro.medium.com/max/2000/1*0pn33bETjYOimWjlqDLLNw.png) |
+| Лекция<br>16 декабря | Онлайн | Linear Quadratic Regulator (LQR). Model-based RL.	| [Презентация по MCTS и LQR](http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-10.pdf)<br>[Презентация по Model-based RL](http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-11.pdf) | [World Models](https://worldmodels.github.io/) |
+| Семинар<br> 16 декабря | Онлайн | Dreamer	| [Dreamer v1](https://arxiv.org/abs/1912.01603)<br>[Dreamer v2](https://arxiv.org/abs/2010.02193) |  |
 
 ## Материалы
 [Полунеофициальный конспект](https://github.com/FortsAndMills/RL-Theory-book/blob/main/RL_Theory_Book.pdf)
