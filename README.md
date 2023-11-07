@@ -8,7 +8,9 @@
 
 **Расписание**: курс проводится в смешанном онлайн/офлайн режиме по пятницам, лекция в 14-35, семинар в 16-20 в ауд. 526б.
 
-**Канал в Telegram**: [ссылка](https://t.me/+vZ-2d2ov5Pc5YTcy)
+**Зум для онлайн-занятий**: [ссылка](https://us02web.zoom.us/j/86204571845?pwd=WDZBQUU2aVdNTmNkRGZqVU9TWDNHdz09)
+
+**Чат в Telegram для вопросов и обсуждений**: [ссылка](https://t.me/+vZ-2d2ov5Pc5YTcy)
 
 **Видеозаписи занятий**: [текущий год](https://www.youtube.com/playlist?list=PLVF5PzSHILHQefZ-fAbapNqi7AMQoqL-D), [прошлый год](https://www.youtube.com/playlist?list=PLVF5PzSHILHShpQTIiYiR-kGEHLfYx9Qo)
 
