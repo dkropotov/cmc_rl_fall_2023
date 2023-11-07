@@ -70,4 +70,9 @@
 | Лекция<br>16 декабря | Онлайн | Linear Quadratic Regulator (LQR). Model-based RL.	| Презентация по MCTS и LQR<br>Презентация по Model-based RL | World Models |
 | Семинар<br> 16 декабря | Онлайн | Dreamer	| Dreamer v1<br>Dreamer v2 |  |
 
+## Материалы
+[Полунеофициальный конспект](https://github.com/FortsAndMills/RL-Theory-book/blob/main/RL_Theory_Book.pdf)
 
+[Курс Practical RL (ШАД)](https://github.com/yandexdataschool/Practical_RL)
+
+[Курс Deep Reinforcement Learning (CS 285), UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
