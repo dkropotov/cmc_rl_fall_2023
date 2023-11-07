@@ -40,6 +40,143 @@
 | PPO	| 21 ноября	| 2 недели | 20	| -0.6
 | MCTS | 6 декабря | 2 недели	| 20 | -0.6
 
+## Расписание занятий
+| Дата | Формат | Занятие	| Материалы	| Дополнительные материалы	| 
+| :---: | :---: | --- | --- | --- |
+| Лекция<br>8 сентября | Онлайн | Введение в курс. Кросс-энтропийный метод (CEM).	| [CEM for optimization](https://people.smp.uq.edu.au/DirkKroese/ps/CEopt.pdf)<br> [Tetris with CEM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.6579&rep=rep1&type=pdf) | [OpenAI ES](https://openai.com/blog/evolution-strategies/)<br> [Обзор эволюционных стратегий](https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html)<br> [WANN](https://arxiv.org/pdf/1906.04358.pdf) |
+| Семинар<br>8 сентября | Онлайн | Библиотека OpenAI gym. Реализация табличного кросс-энтропийного метода. |   |   |			
+| Лекция<br>15 сентября | Онлайн | Динамическое программирование. Value Iteration, Policy Iteration. | [Sutton, Barto, ch.3-4](https://drive.google.com/file/d/1Z4W_-0IaMNpZnhnMkqcDVM_EA79GFJo-/view) | [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) |
+Лекция
+30 сентября
 
+Табличные методы. TD-обучение.	
+Слайды занятия
+Sutton, Barto, ch.5-6
+Визуализация TD-обучения (distill)
+Семинар
+30 сентября
+
+Табличное Q-обучение.			
+Лекция
+7 октября
+
+Deep Q-Network (DQN) и его модификации.	
+Слайды занятия
+DQN
+Double DQN
+Prioritized Experience Replay
+Noisy Networks
+Dueling DQN
+R2D2
+Agent57
+Семирнар
+7 октября
+
+Модификации DQN.			
+Лекция
+14 октября
+
+Distributional RL. Quantile Regression DQN (QR-DQN).	
+Categorical DQN
+QR-DQN
+Implicit Quantile Networks (IQN)
+Rainbow DQN
+Семинар
+14 октября
+
+Distributional RL - продолжение.			
+Лекция
+21 октября
+
+Многорукие бандиты.	
+полезный ресурс по бандитам
+Семинар
+21 октября
+
+Внутренняя мотивация для исследования среды.	
+Слайды занятия
+Sutton, Barto, ch.2
+Random Network Distillation (RND)
+Intrinsic Curiosity Module (ICM)
+Обзор модулей внутренней мотивации
+Variational Information Maximizing Exploration (VIME)
+Never Give Up (NGU)
+Лекция
+28 октября
+
+Policy gradient подход. Advantage Actor-Critic (A2C).	
+Sutton, Barto, ch.13
+A2C
+Обзор Policy Gradient алгоритмов
+Комикс про A2C
+Семинар
+28 октября
+
+REINFORCE.			
+Лекция
+11 ноября
+
+Trust-Region Policy Optimization (TRPO).	
+TRPO
+Лекция
+18 ноября
+
+Proximal Policy Optimization (PPO).	
+Слайды занятия
+PPO
+Implementation matters in RL
+Семинар
+18 ноября
+
+Generalized Advantage Estimation (GAE).	
+GAE
+Sutton, Barto, ch.12
+Лекция
+25 ноября
+
+Непрерывное управление.	
+Deep Deterministic Policy Gradient (DDPG)
+Twin-Delayed DDPG (TD3)
+Soft Actor-Critic (SAC)
+Truncated Quantile Critics (TQC)
+Семинар
+25 ноября
+
+Soft Actor Critic. Управление, как вероятностный вывод.	
+RL as probabilistic inference
+Лекция
+2 декабря
+
+Имитационное обучение.			
+Семинар
+2 декабря
+
+Обратное обучение с подкреплением.	
+Guided Cost Learning
+Generative Adversarial Imitation Learning (GAIL)
+Лекция
+9 декабря
+
+Monte Carlo Tree Search.			
+Семинар
+9 декабря
+
+AlphaZero, MuZero.	
+AlphaZero
+MuZero
+AlphaZero in one picture
+Лекция
+16 декабря
+
+Linear Quadratic Regulator (LQR). Model-based RL.	
+Презентация по MCTS и LQR
+Презентация по Model-based RL
+World Models
+Семинар
+16 декабря
+
+Dreamer	
+Dreamer v1
+Dreamer v2
 
 
